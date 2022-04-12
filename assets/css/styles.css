@@ -21,6 +21,7 @@ footer {
 }
 footer i,footer h2{
   font-size: 25px;
+  color: white;
 }
 .card-body{
   background-color: #0dcaf0;
